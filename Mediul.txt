@@ -1,0 +1,7 @@
+Mediul:
+
+    Am instalat librariile necesare pentru crearea acestui script fie folosind terminalul IDE-ului cu pip, care permite instalarea librariile pentru Python(ex. pip install selenium), fie prin a folosi direct interfata PyCharm prin Pyton Packages unde putem cauta direct numele librariei pe care dorim sa o instalam.
+
+    Sistemul de operare pe care ruleaza programul este linux, iar singura eroare pe care am intampinat o a fost instalarea librariei pyaudio, deoarece imi lipsea o libarie pentru compilarea pachetului si anume portaudio.h, pe care am instalat o din terminal folosind comanda sudo apt install portaudio19-dev.
+
+Am instalat de asemenea Geckodriver de pe un github repo pentru a putea utiliza Firefox cu selenium.
